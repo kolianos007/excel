@@ -9,7 +9,10 @@
     "semi": "off",
     "linebreak-style": 0,
     "eol-last": "off",
-    "indent": "off"
+    "indent": "off",
+    "require-jsdoc": "off",
+    "comma-dangle": "off",
+    "operator-linebreak": "off"
   },
   "extends": [
     "eslint:recommended",
